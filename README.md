@@ -1,8 +1,8 @@
 # The World in One Day — 17 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261117)
-[![rank](https://img.shields.io/badge/rank-awaiting%20judging-lightgrey)](https://make.fun/bounty/news-image-20261117)
-[![reward](https://img.shields.io/badge/reward-%2450%20for%201st-green)](https://make.fun/bounty/news-image-20261117)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/h05meigames2/news-17nov26-frontpage/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/h05meigames2/news-17nov26-frontpage/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 A one-page newspaper front page that sums up the world news of
 **Tuesday, 17 November 2026** in a single 1024×1024 image.
